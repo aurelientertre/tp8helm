@@ -1,4 +1,4 @@
-replicas: 3
+replicas: 9
 
 image:
   tag: 4.0.3
